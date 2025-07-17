@@ -2,9 +2,6 @@
 
 A list of developer portfolios for your inspiration
 
-Have you built a portfolio? Are you proud of it?! Open a [PR](./CONTRIBUTING.md) to this repo and
-let's showcase your work! Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
-
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Current Portfolio Count: 1164
