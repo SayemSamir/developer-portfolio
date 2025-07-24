@@ -1,5 +1,23 @@
 # Developer Portfolios
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Contributors](https://img.shields.io/github/contributors/microsoft/AI-For-Beginners?color=green)](https://github.com/microsoft/AI-For-Beginners/graphs/contributors)
+[![Open Issues](https://img.shields.io/github/issues/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/microsoft/AI-For-Beginners/compare)
+[![GitHub Watchers](https://img.shields.io/github/watchers/microsoft/AI-For-Beginners.svg?style=social)](https://github.com/microsoft/AI-For-Beginners/watchers)
+[![GitHub Forks](https://img.shields.io/github/forks/microsoft/AI-For-Beginners.svg?style=social)](https://github.com/microsoft/AI-For-Beginners/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/microsoft/AI-For-Beginners.svg?style=social)](https://github.com/microsoft/AI-For-Beginners/stargazers)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/AI-For-Beginners/HEAD)
+[![Chat on Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/AI-For-Beginners/community)
+
+
+## About This Curriculum
+
+This repository provides a comprehensive curriculum for beginners to understand the fundamentals of Artificial Intelligence...
+
+... (Rest of your README content)
+
 A list of developer portfolios for your inspiration
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
